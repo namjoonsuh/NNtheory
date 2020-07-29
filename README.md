@@ -25,3 +25,20 @@ The following is a list of papers that we are working on presentatoin slides.
   * *papers*/1610.01145.pdf
   * *slides source files*/Yarotsky.xxx
 
+_The following papers are possibly in the pipeline._
+
+4. Universality of deep convolutional neural networks; DX Zhou - Applied and computational harmonic analysis, 2020 - Elsevier
+
+  * *papers*/1805.10769.pdf
+
+5. Fast learning rates for plug-in classifiers; JY Audibert, AB Tsybakov - The Annals of statistics, 2007
+
+  * *papers*/1183667286.pdf 
+
+6. Optimal aggregation of classifiers in statistical learning; AB Tsybakov - The Annals of Statistics, 2004
+
+  * *papers*/1079120131.pdf 
+
+7. Smooth discrimination analysis; E Mammen, AB Tsybakov - The Annals of Statistics
+
+  * *papers*/1017939240.pdf 
