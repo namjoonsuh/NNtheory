@@ -17,11 +17,11 @@ The following is a list of papers that we are working on presentatoin slides.
 
 2. Optimal approximation of piecewise smooth functions using deep ReLU neural networks; P Petersen, F Voigtlaender - Neural Networks, 2018 - Elsevier
 
-  * papers/1709.05289.pdf
-  * slides source files/Petersen.xxx
+  * *papers*/1709.05289.pdf
+  * *slides source files*/Petersen.xxx
 
 3. Error bounds for approximations with deep ReLU networks; D Yarotsky - Neural Networks, 2017 - Elsevier
 
-  * papers/1610.01145.pdf
-  * slides source files/Yarotsky.xxx
+  * *papers*/1610.01145.pdf
+  * *slides source files*/Yarotsky.xxx
 
