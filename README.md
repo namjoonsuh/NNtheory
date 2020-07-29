@@ -11,9 +11,9 @@ The following is a list of papers that we are working on presentatoin slides.
 
 1. Nonparametric regression using deep neural networks with ReLU activation function; J Schmidt-Hieber - arXiv preprint arXiv:1708.06633, 2017 
 
-  * papers/1708.06633.pdf 
-  * slides source files/Hieber_approx.xxx for the functional approximation part
-  * slides source files/Hieber_Risk.xxx for the minimax estimation rate part 
+  * *papers*/1708.06633.pdf 
+  * *slides source files*/Hieber_approx.xxx for the functional approximation part
+  * *slides source files*/Hieber_Risk.xxx for the minimax estimation rate part 
 
 2. Optimal approximation of piecewise smooth functions using deep ReLU neural networks; P Petersen, F Voigtlaender - Neural Networks, 2018 - Elsevier
 
